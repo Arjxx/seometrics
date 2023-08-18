@@ -662,8 +662,15 @@ li {
     /* display: block; */
     /* font-size: 100px;
     font-weight: 500; */
-}
+    }
+/* .grank{
+    height:50vh;
+  
 
+    background-image: url("/img/grankbg.png");
+    background-size: cover;
+
+} */
 .headspan {
     color: #7ba549;
     font-size: 23px;
@@ -752,6 +759,22 @@ li {
     border-top: 1px solid #ddd;
 }
 
+.sticon {
+    color: yellowgreen;
+    font-size: 50px;
+}
+.arrowright{
+    font-size: 50px;
+    color: #28a745;
+    font-weight: 400;
+    
+}
+.arrow{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+}
 /*===================
     faq
 ===================*/
@@ -1051,6 +1074,9 @@ footer ul li a .fa-whatsapp {
         width: 100%;
         align-items: center;
     }
+    .arrow{
+        rotate: 90deg;
+    }
 
 }
 
@@ -1122,5 +1148,7 @@ footer ul li a .fa-whatsapp {
     }
     .header-intro .entry img {
     display: none;    }
+
+    
 
 }
