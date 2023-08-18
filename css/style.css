@@ -800,6 +800,12 @@ li {
   padding-bottom: 10px;
   margin-top: 40px;
 }
+
+.whyimage{
+    width: 85%;
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
 /*===================
     faq
 ===================*/
