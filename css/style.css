@@ -1103,6 +1103,9 @@ footer ul li a .fa-whatsapp {
   .arrow {
     rotate: 90deg;
   }
+  .button {
+    width: 100%;
+  }
 }
 
 @media (max-width: 575px) {
