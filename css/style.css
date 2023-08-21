@@ -705,11 +705,30 @@ li {
 .keyfeature {
   padding: 30px 20px 15px 20px;
   background-color: #ffffff;
-  box-shadow: 0px 1px 45px 0px #dddddd;
+  box-shadow: 0px 1px 15px 0px #dddddd;
   margin-bottom: 20px;
   height: 100%; 
 }
+.api{
+  padding: 30px 30px 20px 30px;
+  background-color: #f2fde6;
 
+  box-shadow: 0px 1px 45px 0px #dddddd;
+  margin-bottom: 10px;
+  height: 100%;
+
+}
+.api-txt{
+  width: 75%;
+}
+.api-img{
+  width: 25%;
+}
+
+.apibtn{
+  width: 40%;
+  margin: 0;
+}
 .howto {
 text-decoration: none;
 color: #7ba549;
@@ -1191,5 +1210,8 @@ footer ul li a .fa-whatsapp {
   }
   .header-intro .entry img {
     display: none;
+  }
+  .api-entry{
+    text-align: center;
   }
 }
