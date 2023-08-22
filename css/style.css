@@ -738,13 +738,14 @@ li {
 
 .apientry{
   background-color: #fdfffb;
-
   box-shadow: 0px 1px 45px 0px #dddddd;
   border-radius: 10px;
   margin-bottom: 15px;
   padding: 10px;
 }
-
+.api-brac{
+  width: 100px;
+}
 .howto {
 text-decoration: none;
 color: #7ba549;
@@ -1154,6 +1155,10 @@ footer ul li a .fa-whatsapp {
   .button {
     width: 100%;
   }
+  .api-brac{
+    padding-top:30px ;
+  }
+}
 }
 
 @media (max-width: 575px) {
@@ -1234,5 +1239,8 @@ footer ul li a .fa-whatsapp {
     width: 25%;
     margin-left: 0  ;
     /* margin-bottom: 10px;   */
+  }
+  .api-brac{
+    padding-top:30px ;
   }
 }
