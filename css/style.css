@@ -1157,9 +1157,10 @@ footer ul li a .fa-whatsapp {
   }
   .api-brac{
     padding-top:30px ;
+    padding-bottom:30px;
   }
 }
-}
+
 
 @media (max-width: 575px) {
   .container {
@@ -1242,5 +1243,6 @@ footer ul li a .fa-whatsapp {
   }
   .api-brac{
     padding-top:30px ;
+    padding-bottom:30px;
   }
 }
